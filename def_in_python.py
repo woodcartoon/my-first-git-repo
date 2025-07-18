@@ -4,8 +4,8 @@ digit_two = int(input("Enter the second digit: "))
 
 def add_two_number(x, y):
     # this function adds, multiplies and divides two numbers
-    sum = x + y
-    addition = print(sum)
+    sum1 = x + y
+    addition = print(sum1)
     multiplication = x * y
     times = print(multiplication)
     division = x/y
