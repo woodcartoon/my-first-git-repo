@@ -5,6 +5,6 @@ def reverse(string):
 
 
 reverse("hello world")
-reverse("max ubise")
+reverse("Max Ubise")
 
 # this function is used to print a string to be written in reverse
